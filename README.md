@@ -9,4 +9,9 @@ Database:
 
 Output:
 
-![p5](https://user-images.githubusercontent.com/44870863/67746998-b14f1600-fa62-11e9-8192-815f597ef6db.JPG)
+![Screenshot (60)](https://user-images.githubusercontent.com/44870863/67757135-30017e80-fa76-11e9-9eed-64b501d06160.png)
+
+
+Query for each column:
+
+![Screenshot (59)](https://user-images.githubusercontent.com/44870863/67757108-25df8000-fa76-11e9-97e8-019f77a665c3.png)
